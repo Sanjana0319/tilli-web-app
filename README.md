@@ -78,3 +78,7 @@ To know more about our [team members](https://www.tillikids.com/team)
 ### Join our Slack Community
 
 Join our Slack community to connect with other members, ask questions, and collaborate on projects. [Slack Invite Link](https://join.slack.com/t/tilliopensour-wyp9205/shared_invite/zt-206f4f11s-HoII8Kob45f6WK3GPIIi6g)
+
+### Join our Slack Community
+
+Join our Slack community to connect with other members, ask questions, and collaborate on projects. [Slack Invite Link](https://join.slack.com/t/tilliopensour-wyp9205/shared_invite/zt-206f4f11s-HoII8Kob45f6WK3GPIIi6g)
