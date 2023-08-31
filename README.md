@@ -1,3 +1,5 @@
+[![Unit tests](https://github.com/tillioss/tilli-ide/actions/workflows/unit.yml/badge.svg)](https://github.com/tillioss/tilli-ide/actions/workflows/unit.yml)
+
 [![CI](https://github.com/tillioss/tilli-web-app/actions/workflows/ci.yml/badge.svg)](https://github.com/tillioss/tilli-web-app/actions/workflows/ci.yml)
 
 # Tilli Web App:
